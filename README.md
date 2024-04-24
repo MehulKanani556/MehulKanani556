@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning backend</p>
+<p align="left">📚 I'm currently working at Kalathiya Infotech</p>
 
 ###
 
