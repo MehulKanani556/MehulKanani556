@@ -3,7 +3,7 @@
 ###
 
 <p align="left">My name is  Mehul Kanani and I'm a Full Stack Developer</p>
-<a href="https://mkanani.netlify.app">https://mkanani.netlify.app</a>
+<a target="_blank" href="https://mkanani.netlify.app">https://mkanani.netlify.app</a>
 
 ###
 
